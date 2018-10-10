@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: GuidedUS tutorial at MICCAI 2018 
 ---
 
 My first post
