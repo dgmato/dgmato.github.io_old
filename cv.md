@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Travel
-permalink: /travel
+title: CV
+permalink: /cv
 ---
 
 PhD student in Biomedical Engineering at Universidad Carlos III in Madrid, Spain.
