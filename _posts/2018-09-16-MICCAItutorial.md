@@ -10,7 +10,7 @@ The objective of the tutorial was to teach participants how to develop image-gui
 
 ![GuidedUS Tutorial Schedule]({{ site.baseurl }}/images/miccai_tutorial.PNG)
 
-Intructors: 
+Instructors: 
 
 - David García-Mato. Universidad Carlos III de Madrid. Spain.
 - Mark Asselin. Queen's University. Canada.
