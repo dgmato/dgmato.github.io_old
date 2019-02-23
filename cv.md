@@ -89,4 +89,24 @@ ___
 
 ### Teaching Experience
 
+* **Advanced Topics on Medical Imaging**. B.Sc. in Biomedical Engineering, Universidad Carlos III de Madrid, Madrid, Spain.
+
+* **Image Processing and Reconstruction**. B.Sc. in Biomedical Engineering, Universidad Carlos III de Madrid, Madrid, Spain.
+
+* **Medical imaging techniques and applications**. Improvements in Education Quality and Innovative applications in Biomedicine, Universidad Carlos III de Madrid, Madrid, Spain.
+
+* **Image Processing with ImageJ** Instituto Nacional de Técnica Aeroespacial (INTA), Madrid, Spain.
+
+* **GuidedUS: Hands-on Tutorial on Rapid Prototyping of Ultrasound-guided Intervention Systems**. Medical Image Computing and Computer-Assisted Interventions 2018, Granada, Spain.
+
+* **Tutorial on Rapid prototyping of image guided therapy applications on open sources software platform**. Computer Assisted Radiology and Surgery conference 2018, Berlin, Germany.
+
+* Supervisor of bachelor's thesis: **"Building and Validation of Low-Cost Breast Phantoms for Interventional Procedures"**. B.Sc. in Biomedical Engineering, Universidad Carlos III de Madrid, Madrid, Spain.
+
+* **Python for Beginners** Universidad Carlos III de Madrid, Madrid, Spain.
+
+* **Image Processing and 3D Visualization**. Master’s degree in Medical Physics. Universidad Nacional de Educación a Distancia (UNED), Madrid, Spain.
+
+* **Medical Instrumentation and Devices**. B.Sc. in Biomedical Engineering, Universidad Carlos III de Madrid, Madrid, Spain.
+
 ### Awards and Certificates
