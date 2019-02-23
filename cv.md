@@ -14,13 +14,7 @@ PhD student in Biomedical Engineering at Universidad Carlos III in Madrid, Spain
 [Download my CV]({{file name='CV_DavidGarciaMato.pdf'}})
 
 ## PROFESSIONAL EXPERIENCE
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
+[SEP 2015 - ONGOING]
 * Biomedical Engineer at **Department of Bioengineering and Aerospace Engineering, Universidad Carlos III de Madrid**, Madrid, Spain
   - Software development for computer-assisted maxillofacial surgery.
   - Surgical navigation and augmented reality in surgical oncology.
