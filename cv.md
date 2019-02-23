@@ -15,23 +15,29 @@ PhD student in Biomedical Engineering at Universidad Carlos III in Madrid, Spain
 
 ### Professional Experience
 
+___
+
 * Biomedical Engineer at **Department of Bioengineering and Aerospace Engineering, Universidad Carlos III de Madrid**, Madrid, Spain
   - Software development for computer-assisted maxillofacial surgery.
   - Surgical navigation and augmented reality in surgical oncology.
   - Medical image processing, tracking systems, 3D printing.  
   - Supervisor: Javier Pascau   
 
+___
 
 * Research Engineer at **Sheikh Zayed Institute for Pediatric Surgical Innovation, Children's National Medical Center**, Washington, DC, United States
   - Automatic virtual planning in pediatric neurosurgery.
   - Quantifying overcorrection in craniosynostosis reconstruction planning.
   - Supervisor: Marius George Linguraru
 
+____
 
 * Research Engineer at **Laboratory of Percutaneous Surgery (Perk Lab), Queen's University**, Kingston, ON, Canada
   - Development of 3D gaze tracking using eye and head pose tracking
   - Gaze tracking for skill assessment in US-guided needle insertions.
   - Supervisor: Gabor Fichtinger 
+
+___
 
 * Research Engineer at **Medical Imaging Laboratory, Hospital General Universitario Gregorio Marañón**, Madrid, Spain
   - Ultrasound-guided breast tumor resection using based on EM tracker.
