@@ -48,24 +48,31 @@ ___
 ___
 
 ## EDUCATION
+
 [September 2016 - Ongoing]
 * PhD in Biomedical Engineering, **Universidad Carlos III de Madrid**, Madrid, Spain
   - BiiG Group, Department of Bioengineering and Aerospace Engineering
   - PIFC full scholarship
   - Supervisor: *Dr. Javier Pascau*
+  
 ___
+
 [November 2016 - May 2017]
 * Visiting Research Student, **Queen's University**, Kingston, Canada
   - Laboratory for Percutaneous Surgery (Perk Lab). School of Computing. 
   - Supervisor: Dr. Gabor Fichtinger
+
 ___
+
 [September 2015 - September 2016]
 * Master in Multimedia and Communications, **Universidad Carlos III de Madrid**, Madrid, Spain
   - 8.73/10 | Signal processing, machine learning, and computer vision applications.
   - Thesis: ''Cervical Range of Motion Measurement using MARG Low-Cost Sensors''
   - Master's degree full scholarship. Academic year 2015/2016.
   - 100% of the ECTS credits taken in English
+
 ___
+
 [September 2011 - June 2015]
 * Bachelor's Degree in Biomedical Engineering, **Universidad Carlos III de Madrid**, Madrid, Spain
   - 8.42/10 | Major: Medical Imaging 
@@ -75,7 +82,10 @@ ___
 [July 2014 - December 2014]
 * Exchange Semester at **Queensland University of Technology**, Brisbane, Australia
   - 9.25/10 | International Exchange Scholarship
+
 ___
+
+
 ### Teaching Experience
 
 ### Awards and Certificates
