@@ -63,16 +63,17 @@ ___
 * Master in Multimedia and Communications, **Universidad Carlos III de Madrid**, Madrid, Spain
   - 8.73/10 | Signal processing, machine learning, and computer vision applications.
   - Thesis: ''Cervical Range of Motion Measurement using MARG Low-Cost Sensors''
-  - Master's degree full scholarship. Academic year 2015/2016.\\
-  - 100\% of the ECTS credits taken in English
+  - Master's degree full scholarship. Academic year 2015/2016.
+  - 100% of the ECTS credits taken in English
 ___
 [September 2011 - June 2015]
 * Bachelor's Degree in Biomedical Engineering, **Universidad Carlos III de Madrid**, Madrid, Spain
   - 8.42/10 | Major: Medical Imaging 
   - Thesis: ''Calibration developments for multicamera optical tracking systems''
-  - 100\% of the ECTS credits taken in English
+  - 100% of the ECTS credits taken in English
+  
 [July 2014 - December 2014]
-* Exchange Semester at Queensland University of Technology, Brisbane, Australia
+* Exchange Semester at **Queensland University of Technology**, Brisbane, Australia
   - 9.25/10 | International Exchange Scholarship
 ___
 ### Teaching Experience
