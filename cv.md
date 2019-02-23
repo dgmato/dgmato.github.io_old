@@ -87,7 +87,7 @@ ___
 ___
 
 
-### Teaching Experience
+## TEACHING EXPERIENCE
 
 * **Advanced Topics on Medical Imaging**. B.Sc. in Biomedical Engineering, Universidad Carlos III de Madrid, Madrid, Spain.
 
