@@ -14,10 +14,10 @@ PhD student in Biomedical Engineering at Universidad Carlos III in Madrid, Spain
 [Download my CV]({{file name='CV_DavidGarciaMato.pdf'}})
 
 ### Education
-PhD in Biomedical Engineering, Universidad Carlos III de Madrid, Madrid, Spain
-BiiG Group, Department of Bioengineering and Aerospace Engineering
-PIFC full scholarship
-Supervisor: Dr. Javier Pascau
+* PhD in Biomedical Engineering, Universidad Carlos III de Madrid, Madrid, Spain
+  - BiiG Group, Department of Bioengineering and Aerospace Engineering
+  - PIFC full scholarship
+  - Supervisor: Dr. Javier Pascau
 
 Visiting Research Student, Queen's University, Kingston, Canada
 Laboratory for Percutaneous Surgery (Perk Lab). School of Computing. 
