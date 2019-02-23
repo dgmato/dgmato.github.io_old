@@ -21,11 +21,13 @@ PhD student in Biomedical Engineering at Universidad Carlos III in Madrid, Spain
   - Medical image processing, tracking systems, 3D printing.  
   - Supervisor: Javier Pascau   
 
+
 * Research Engineer at **Sheikh Zayed Institute for Pediatric Surgical Innovation, Children's National Medical Center**, Washington, DC, United States
   - Automatic virtual planning in pediatric neurosurgery.
   - Quantifying overcorrection in craniosynostosis reconstruction planning.
   - Supervisor: Marius George Linguraru
- 
+
+
 * Research Engineer at **Laboratory of Percutaneous Surgery (Perk Lab), Queen's University**, Kingston, ON, Canada
   - Development of 3D gaze tracking using eye and head pose tracking
   - Gaze tracking for skill assessment in US-guided needle insertions.
