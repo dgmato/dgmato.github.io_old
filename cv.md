@@ -11,7 +11,7 @@ PhD student in Biomedical Engineering at Universidad Carlos III in Madrid, Spain
 [dgmato@ing.uc3m.es](mailto:dgmato@ing.uc3m.es)
 
 ## Download CV
-[CV_DavidGarciaMato.pdf]({{file name='CV_DavidGarciaMato.pdf'}})
+[Download my CV]({{file name='CV_DavidGarciaMato.pdf'}})
 
 ### Education
 PhD in Biomedical Engineering, Universidad Carlos III de Madrid, Madrid, Spain
