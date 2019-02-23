@@ -15,6 +15,12 @@ PhD student in Biomedical Engineering at Universidad Carlos III in Madrid, Spain
 
 ## PROFESSIONAL EXPERIENCE
 
+2010-2014 (expected)
+:   **PhD, Computer Science**; Awesome University (MyTown)
+
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+
 * Biomedical Engineer at **Department of Bioengineering and Aerospace Engineering, Universidad Carlos III de Madrid**, Madrid, Spain
   - Software development for computer-assisted maxillofacial surgery.
   - Surgical navigation and augmented reality in surgical oncology.
