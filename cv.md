@@ -109,7 +109,17 @@ ___
 
 * **Medical Instrumentation and Devices**. B.Sc. in Biomedical Engineering, Universidad Carlos III de Madrid, Madrid, Spain.
 
-### Awards and Certificates
+
+## OTHER EXPERIENCE
+
+* Reviewer at **International Journal of Computer Assisted Radiology and Surgery** (July 2019)
+
+* Reviewer at **22nd International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2019**. October 13th-17th, 2019. Shenzhen, China (May 2019)
+
+* Sport Events Officer at **The Medical Image Computing and Computer Assisted Intervention Society**. Responsible for the organisation of sports related events at MICCAI 2019 conference. Shenzhen, China. (November 2018 - October 2019)
+
+
+## AWARDS AND CERTIFICATES
 
 * ISCAS Best Paper Award (June 2019)
 
@@ -129,7 +139,7 @@ ___
 
 * UC3M B.Sc. Mobility Grant (July 2014)
 
-### Journal Articles
+## JOURNAL ARTICLES
 
 * **D. García-Mato**, E. Marinetto, A. García, S. Martínez, M. Desco, J. Pascau. "Multicamera Optical Tracker Assessment for Computer Aided Surgery Applications". IEEE Access, vol. 6, pp. 64359-64370, 2018. [doi: 10.1109/ACCESS.2018.2878323]
 
@@ -138,7 +148,7 @@ ___
 * M. García-Sevilla, J. De León-Luis, R. Moreta-Martínez, **D. García-Mato**, R. Pérez-Mañanes, J. A. Calvo-Haro, J. Pascau. "Performance Evaluation to Improve Training in Forceps-Assisted Delivery". OR 2.0 Context-Aware Operating Theaters, Computer Assisted Robotic Endoscopy, Clinical Image-Based Procedures, and Skin Image Analysis, pp. 69-77
 
 
-### Conference Proceedings
+## CONFERENCE PROCEEDINGS
 
 * **D. García-Mato**, M. García-Sevilla, S. Ochandiano, C. Navarro-Cuéllar, J. V. Darriba-Allés, R. García-Leal, J. Pascau. “Morphometric Analysis in Craniosynostosis Reconstruction Surgery based on Structured Light Scanning”. 18th meeting of the International Society of Craniofacial Surgery (ISCFS) 2019. Paris, France. 
 
