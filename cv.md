@@ -131,40 +131,46 @@ ___
 
 ### Journal Articles
 
-* D. García-Mato, E. Marinetto, A. García, S. Martínez, M. Desco, J. Pascau. "Multicamera Optical Tracker Assessment for Computer Aided Surgery Applications". IEEE Access, vol. 6, pp. 64359-64370, 2018. [doi: 10.1109/ACCESS.2018.2878323]
+* **D. García-Mato**, E. Marinetto, A. García, S. Martínez, M. Desco, J. Pascau. "Multicamera Optical Tracker Assessment for Computer Aided Surgery Applications". IEEE Access, vol. 6, pp. 64359-64370, 2018. [doi: 10.1109/ACCESS.2018.2878323]
 
-* R. Moreta-Martinez, D. García-Mato, M. García-Sevilla, R. Pérez-Mañanes, J. A. Calvo, J. Pascau. "Augmented reality in computer-assisted interventions based on patient-specific 3D printed reference". Healthcare Technology Letters, pp. 1–5.
+* R. Moreta-Martinez, **D. García-Mato**, M. García-Sevilla, R. Pérez-Mañanes, J. A. Calvo, J. Pascau. "Augmented reality in computer-assisted interventions based on patient-specific 3D printed reference". Healthcare Technology Letters, pp. 1–5.
  
-* M. García-Sevilla, J. De León-Luis, R. Moreta-Martínez, D. García-Mato, R. Pérez-Mañanes, J. A. Calvo-Haro, J. Pascau. "Performance Evaluation to Improve Training in Forceps-Assisted Delivery". OR 2.0 Context-Aware Operating Theaters, Computer Assisted Robotic Endoscopy, Clinical Image-Based Procedures, and Skin Image Analysis, pp. 69-77
+* M. García-Sevilla, J. De León-Luis, R. Moreta-Martínez, **D. García-Mato**, R. Pérez-Mañanes, J. A. Calvo-Haro, J. Pascau. "Performance Evaluation to Improve Training in Forceps-Assisted Delivery". OR 2.0 Context-Aware Operating Theaters, Computer Assisted Robotic Endoscopy, Clinical Image-Based Procedures, and Skin Image Analysis, pp. 69-77
 
 
 ### Conference Proceedings
 
-* D. García-Mato, M. García-Sevilla, S. Ochandiano, C. Navarro-Cuéllar, J. V. Darriba-Allés, R. García-Leal, J. Pascau. “Morphometric Analysis in Craniosynostosis Reconstruction Surgery based on Structured Light Scanning”. 18th meeting of the International Society of Craniofacial Surgery (ISCFS) 2019. Paris, France. 
+* **D. García-Mato**, M. García-Sevilla, S. Ochandiano, C. Navarro-Cuéllar, J. V. Darriba-Allés, R. García-Leal, J. Pascau. “Morphometric Analysis in Craniosynostosis Reconstruction Surgery based on Structured Light Scanning”. 18th meeting of the International Society of Craniofacial Surgery (ISCFS) 2019. Paris, France. 
 
-* S. Ochandiano, D. García-Mato, E. Bullejos, J. V. Darriba-Allés, R. García-Leal, J. Pascau, J. I. Salmerón. “Intraoperative Navigation in Craniosynososis based on Virtual Surgical Planning and an "In-House" Technique”. 18th meeting of the International Society of Craniofacial Surgery (ISCFS) 2019. Paris, France. 
+* S. Ochandiano, **D. García-Mato**, E. Bullejos, J. V. Darriba-Allés, R. García-Leal, J. Pascau, J. I. Salmerón. “Intraoperative Navigation in Craniosynososis based on Virtual Surgical Planning and an "In-House" Technique”. 18th meeting of the International Society of Craniofacial Surgery (ISCFS) 2019. Paris, France. 
 
-* D. García-Mato, M. García-Sevilla, S. Ochandiano, C. Navarro-Cuéllar, J. V. Darriba-Allés, R. García-Leal, J. Pascau. “Structured Light Scanning for Morphometric Analysis in Craniosynostosis Reconstruction Surgery”. Computer Assisted Radiology and Surgery (CARS) conference 2019, Rennes, France. Oral presentation.
+* **D. García-Mato**, M. García-Sevilla, S. Ochandiano, C. Navarro-Cuéllar, J. V. Darriba-Allés, R. García-Leal, J. Pascau. “Structured Light Scanning for Morphometric Analysis in Craniosynostosis Reconstruction Surgery”. Computer Assisted Radiology and Surgery (CARS) conference 2019, Rennes, France. Oral presentation. **ISCAS Best Paper Award**
 
-* D. García-Mato, S. Ochandiano, S. Espías-Alonso, M. García-Sevilla, R. Moreta-Martinez, J. A. Calvo-Haro, R. Pérez-Mañanes, J. Pascau. “Non-invasive computer-assisted dental implant surgery based on optical tracking and 3D printing”. Computer Assisted Radiology and Surgery (CARS) conference 2019, Rennes, France. 
+* **D. García-Mato**, S. Ochandiano, S. Espías-Alonso, M. García-Sevilla, R. Moreta-Martinez, J. A. Calvo-Haro, R. Pérez-Mañanes, J. Pascau. “Non-invasive computer-assisted dental implant surgery based on optical tracking and 3D printing”. Computer Assisted Radiology and Surgery (CARS) conference 2019, Rennes, France.  Poster Presentation.
 
-* M. García-Sevilla, D. García-Mato, J. Calvo-Haro, R. Pérez-Mañanes, J. Pascau. “Optimizing navigation with patient-specific 3D printed guides in pelvic tumor resection surgery”. Computer Assisted Radiology and Surgery (CARS) conference 2019, Rennes, France. Oral presentation.
+* M. García-Sevilla, **D. García-Mato**, J. Calvo-Haro, R. Pérez-Mañanes, J. Pascau. “Optimizing navigation with patient-specific 3D printed guides in pelvic tumor resection surgery”. Computer Assisted Radiology and Surgery (CARS) conference 2019, Rennes, France. Oral presentation.
 
-* E. Bullejos, S. Ochandiano, D. García-Mato, M. Tousidonis, G. Arenas, J. I. Salmerón. “Planificación Virtual y Navegación Intraoperatoria en el Tratamiento de la Craneosinostosis”. Congreso Nacional de Cirugía Oral y Maxilofacial, Sevilla, Spain. Oral presentation.
+* E. Bullejos, S. Ochandiano, **D. García-Mato**, M. Tousidonis, G. Arenas, J. I. Salmerón. “Planificación Virtual y Navegación Intraoperatoria en el Tratamiento de la Craneosinostosis”. Congreso Nacional de Cirugía Oral y Maxilofacial, Sevilla, Spain. Oral presentation.
 
-* S. Espías-Alonso, S. Ochandiano, D. García-Mato}, J. Pascau, C. Navarro-Cuéllar J. I. Salmerón. “Empleo de Sistema de Realidad Aumentada en Craneosinostosis”. Congreso Nacional de Cirugía Oral y Maxilofacial, Sevilla, Spain. Oral presentation.
+* S. Espías-Alonso, S. Ochandiano, **D. García-Mato**, J. Pascau, C. Navarro-Cuéllar J. I. Salmerón. “Empleo de Sistema de Realidad Aumentada en Craneosinostosis”. Congreso Nacional de Cirugía Oral y Maxilofacial, Sevilla, Spain. Oral presentation.
 
-* M. Concepción-Brito, R. Moreta-Martinez, J. Serrano, D. García-Mato, M. García-Sevilla, J. Pascau. “Segmentation of Organs at Risk in Head and Neck Radiation Therapy with 3D Convolutional Networks”. Computer Assisted Radiology and Surgery (CARS) conference 2019, Rennes, France. 
+* M. Concepción-Brito, R. Moreta-Martinez, J. Serrano, **D. García-Mato**, M. García-Sevilla, J. Pascau. “Segmentation of Organs at Risk in Head and Neck Radiation Therapy with 3D Convolutional Networks”. Computer Assisted Radiology and Surgery (CARS) conference 2019, Rennes, France. Oral Presentation.
 
-* R. Moreta-Martinez, D. García-Mato, M. García-Sevilla, R. Pérez-Mañanes, J. A. Calvo, J. Pascau. “AR in computer-assisted interventions based on patient-specific 3D printed reference”. Augmented Environments for Computer-Assisted Interventions Workshop, MICCAI 2018, Granada, Spain. Oral presentation.
+* R. Moreta-Martinez, **D. García-Mato**, M. García-Sevilla, R. Pérez-Mañanes, J. A. Calvo, J. Pascau. “AR in computer-assisted interventions based on patient-specific 3D printed reference”. Augmented Environments for Computer-Assisted Interventions Workshop, MICCAI 2018, Granada, Spain. Oral presentation.
 
-* M. Tousidonis, D. García-Mato, G. Arenas, E. Bullejos, J. Pascau, S. Ochandiano. “Orbital reconstruction workflow based on desktop 3D printing and open-source navigation system”. European Association for Cranio-Maxillo-Facial Surgery 2018, Munich, Germany. Poster presentation.
+* M. Tousidonis, **D. García-Mato**, G. Arenas, E. Bullejos, J. Pascau, S. Ochandiano. “Orbital reconstruction workflow based on desktop 3D printing and open-source navigation system”. European Association for Cranio-Maxillo-Facial Surgery 2018, Munich, Germany. Poster presentation.
 
-* G. Arenas, D. García-Mato, M. Tousidonis, P. Montes, J. Pascau, S. Ochandiano. “Open Source Navigation System and CAD-CAM Technology in Surgical Treatment of Craniosynostosis”. European Association for Cranio-Maxillo-Facial Surgery 2018, Munich, Germany. Oral presentation.
+* G. Arenas, **D. García-Mato**, M. Tousidonis, P. Montes, J. Pascau, S. Ochandiano. “Open Source Navigation System and CAD-CAM Technology in Surgical Treatment of Craniosynostosis”. European Association for Cranio-Maxillo-Facial Surgery 2018, Munich, Germany. Oral presentation.
 
-* D. García-Mato, M. S. Holden, A. Lasso, A. Szulewski, J. Pascau, G. Fichtinger. “3D Gaze Tracking for Skill Assessment in Ultrasound-Guided Needle Insertions”. Computer Assisted Radiology and Surgery (CARS) conference 2018, Berlin, Germany. Oral presentation.
+* **D. García-Mato**, M. S. Holden, A. Lasso, A. Szulewski, J. Pascau, G. Fichtinger. “3D Gaze Tracking for Skill Assessment in Ultrasound-Guided Needle Insertions”. Computer Assisted Radiology and Surgery (CARS) conference 2018, Berlin, Germany. Oral presentation.
 
-* D. García-Mato, S. Ochandiano, M. Tousidonis, R. Moreta-Martínez, M. García-Sevilla, M. Desco, J. Pascau. “Orbital Floor Reconstruction Workflow based on 3D Printing and Surgical Navigation”. Computer Assisted Radiology and Surgery (CARS) conference 2018, Berlin, Germany. Poster presentation. 
+* **D. García-Mato**, S. Ochandiano, M. Tousidonis, R. Moreta-Martínez, M. García-Sevilla, M. Desco, J. Pascau. “Orbital Floor Reconstruction Workflow based on 3D Printing and Surgical Navigation”. Computer Assisted Radiology and Surgery (CARS) conference 2018, Berlin, Germany. Poster presentation. 
 
-* D. García-Mato, E. Marinetto, R. López, M. García-Sevilla, M. Desco, J. Pascau. “Cervical Range of Motion Measurement using MARG Low-Cost Sensors”. Interactive Medical Image Computing (IMIC) Workshop. MICCAI 2016, Athens, Greece. Oral Presentation.
+* **D. García-Mato**, E. Marinetto, R. López, M. García-Sevilla, M. Desco, J. Pascau. “Cervical Range of Motion Measurement using MARG Low-Cost Sensors”. Interactive Medical Image Computing (IMIC) Workshop. MICCAI 2016, Athens, Greece. Oral Presentation.
+
+* R. López-Velazco, **D. García-Mato**, G. Rodríguez-Lozano, M. García-Sevilla, E. Marinetto, D. García-Olmo, M. Desco, M. Ortega-López, J. Pascau. "Navegación quirúrgica de la Neuromodulación de las Raíces Sacras". Spanish Society of Biomedical Engineering Annual Conference 2016, Valencia, Spain. Oral Presentation.
+
+* V. García-Vázquez, G. Rodríguez-Lozano, R. Pérez-Mañanes, J. A. Calvo, **D. García-Mato**, M. Cuervo-Dehesa, M. Desco, J. Pascau, J. Vaquero. "Desktop 3D Printing in medicine to improve surgical navigation in acral tumors". Computer Assisted Radiology and Surgery (CARS) conference 2016, Heidelberg, Germany. Poster Presentation. **ISCAS Best Poster Award**
+
+* **D. García-Mato**, E. Marinetto, L. Sanz-Díaz, M. Desco, J.Pascau. "Calibration developments for multicamera optical tracking systems". Spanish Society of Biomedical Engineering Annual Conference 2015, Madrid, Spain. Poster Presentation.
 
