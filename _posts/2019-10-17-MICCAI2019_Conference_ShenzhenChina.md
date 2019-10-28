@@ -9,5 +9,5 @@ The annual MICCAI conference attracts world leading biomedical scientists, engin
 
 The conference series includes three days of oral presentations and poster sessions. MICCAI 2019 also includes workshops, tutorials, and challenges on the days preceding and succeeding the conference. These satellite events offer a comprehensive forum to further explore topics relevant to MICCAI.
 
-![MICCAI 2019]({{ site.baseurl }}/images/miccai2019_banner.jpeg)
+![MICCAI 2019]({{ site.baseurl }}/images/MICCAI2019_banner.jpeg)
 
