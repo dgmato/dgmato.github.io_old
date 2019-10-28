@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CARS 2019
+title: CARS 2019 - Rennes (France)
 ---
 
 The CARS conference is a truly international and interdisciplinary conference bringing together radiologists, surgeons, computer scientists, engineers, physicists, and other researchers at a unique meeting, where together they contribute to, and in fact lead, the development of novel methodologies and applications in this fast-growing field of technology for health care. 
