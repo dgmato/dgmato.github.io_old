@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MICCAI 2018. Granada, Spain
+title: MICCAI 2018 - Granada (Spain)
 ---
 
 MICCAI 2018, the 21st International Conference on Medical Image Computing and Computer Assisted Intervention, was held from September 16th to 20th, 2018 in Granada, Spain.
