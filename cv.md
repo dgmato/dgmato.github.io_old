@@ -141,6 +141,12 @@ ___
 
 ## JOURNAL ARTICLES
 
+* R Moreta-Martinez, **D. García-Mato**, M. García-Sevilla, R. Pérez-Mañanes, J. A. Calvo-Haro, J. Pascau. "Combining Augmented Reality and 3D Printing to Display Patient Models on a Smartphone". J. Vis. Exp., 155, e60618, 2020. [doi:10.3791/60618]
+
+* **D. García-Mato**, S. Ochandiano, M. García-Sevilla, C. Navarro-Cuéllar, J. V. Darriba-Allés, R. García-Leal, J. A. Calvo-Haro, R. Pérez-Mañanes, J. I. Salmerón, J. Pascau. "Craniosynostosis surgery: workflow based on virtual surgical planning, intraoperative navigation and 3D printed patient-specific guides and templates". Scientific Reports, vol. 9, 17691, 2019. [doi: 10.1038/s41598-019-54148-4]
+
+* S. Ochandiano, **D. García-Mato**, E. Bullejos, J. V. Darriba-Allés, R. García-Leal, J. Pascau, J. I. Salmerón. "Intraoperative navigation in craniosynostosis based on virtual surgical planning and an in-house technique". Plastic and Reconstructive Surgery – Global Open, vol. 7, 8S-2, p 176, 2019. [doi: 10.1097/01.GOX.0000583852.46832.e8]
+
 * **D. García-Mato**, E. Marinetto, A. García, S. Martínez, M. Desco, J. Pascau. "Multicamera Optical Tracker Assessment for Computer Aided Surgery Applications". IEEE Access, vol. 6, pp. 64359-64370, 2018. [doi: 10.1109/ACCESS.2018.2878323]
 
 * R. Moreta-Martinez, **D. García-Mato**, M. García-Sevilla, R. Pérez-Mañanes, J. A. Calvo, J. Pascau. "Augmented reality in computer-assisted interventions based on patient-specific 3D printed reference". Healthcare Technology Letters, pp. 1–5.
@@ -149,6 +155,12 @@ ___
 
 
 ## CONFERENCE PROCEEDINGS
+
+* **D. García-Mato**, M. García-Sevilla, S. Ochandiano, R. Moreta-Martinez, J. V. Darriba-Allés, R. García-Leal, J. I. Salmerón, J. Pascau. "Intraoperative Outcome Evaluation in Craniosynostosis Reconstruction Surgery using 3D Photography". Computer Assisted Radiology and Surgery (CARS) conference 2020, Munich, Germany. Oral presentation.
+
+* M. García-Sevilla, **D. García-Mato**, R. Moreta-Martinez, S. Ochandiano, M. Tousidonis, C. Navarro-Cuéllar, J. Pascau. "Surgical navigation for palate carcinoma resection using a non-invasive 3D-printed reference frame". Computer Assisted Radiology and Surgery (CARS) conference 2020, Munich, Germany. Oral presentation.
+
+* R. Moreta-Martinez, **D. García-Mato**, M. García-Sevilla, S. Ochandiano, R. García-Leal, R. Pérez-Mañanes, J. A. Calvo-Haro, J. I. Salmerón, J. Pascau. "Augmented reality for bone fragment positioning during craniosynostosis reconstruction surgery". Computer Assisted Radiology and Surgery (CARS) conference 2020, Munich, Germany. Poster presentation.
 
 * **D. García-Mato**, M. García-Sevilla, S. Ochandiano, C. Navarro-Cuéllar, J. V. Darriba-Allés, R. García-Leal, J. Pascau. “Morphometric Analysis in Craniosynostosis Reconstruction Surgery based on Structured Light Scanning”. 18th meeting of the International Society of Craniofacial Surgery (ISCFS) 2019. Paris, France. 
 
