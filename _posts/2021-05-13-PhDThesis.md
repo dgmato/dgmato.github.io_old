@@ -11,8 +11,8 @@ I would like to thank everyone involved in this project. Especially, my supervis
 
 ![PhD Thesis 1]({{ site.baseurl }}/images/20210513_PhD_Thesis_1.jpg)
 
-![PhD Thesis 1]({{ site.baseurl }}/images/20210513_PhD_Thesis_2.jpg)
-
 ![PhD Thesis 1]({{ site.baseurl }}/images/20210513_PhD_Thesis_3.jpg)
 
 ![PhD Thesis 1]({{ site.baseurl }}/images/20210513_PhD_Thesis_4.jpg)
+
+![PhD Thesis 1]({{ site.baseurl }}/images/20210513_PhD_Thesis_2.jpg)
