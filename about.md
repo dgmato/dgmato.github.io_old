@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**David García Mato** is currently working as a research and development engineer at Ebatinca S.L. in Las Palmas de Gran Canaria, Spain.
+**David García Mato** is currently working as a research and development engineer at [Ebatinca S.L.](https://ebatinca.com/) in Las Palmas de Gran Canaria, Spain.
 
 He received his B.S. in Biomedical Engineering in 2015, his M.Sc. in Multimedia and Communications in 2016, and his Ph.D. degree in Biomedical Science and Technology in 2021 from Universidad Carlos III de Madrid, Spain. 
 
