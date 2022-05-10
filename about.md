@@ -14,4 +14,4 @@ His research interests are in the areas of image-guided surgery, medical imaging
 
 ### Contact me
 
-[dgarciamato@gmail.com](mailto:dgarciamato@gmail.es)
+[david.garcia@ebatinca.com](mailto:david.garcia@ebatinca.com)
